@@ -82,7 +82,6 @@ pycparser==2.20
 pydot==1.4.2
 Pygments==2.8.1
 pyparsing==2.4.7
-pypiwin23
 pyrsistent==0.17.3
 pytest==6.2.4
 python-dateutil==2.8.1
